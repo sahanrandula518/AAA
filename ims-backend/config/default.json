@@ -1,0 +1,9 @@
+{
+  "mysql_config": {
+    "host": "localhost",
+    "user": "root",
+    "password": "password",
+    "database": "inventory_my_erec"
+  },
+  "jwtSecret": "secret"
+}

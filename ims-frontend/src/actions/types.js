@@ -1,0 +1,11 @@
+export const SIGN_IN = 'SIGN_IN';
+export const FETCH_USER = 'FETCH_USER';
+export const FETCH_DEPARTMENT = 'FETCH_DEPARTMENT';
+export const FETCH_EVENTTYPE = 'FETCH_EVENTTYPE';
+export const FETCH_ITEM_MODEL = 'FETCH_ITEM_MODEL';
+export const FETCH_ITEM_TYPE = 'FETCH_ITEM_TYPE';
+export const FETCH_ITEM = 'ITEM';
+export const FETCH_OPERATING_SYSTEM = 'FETCH_OPERATING_SYSTEM ';
+export const FETCH_VENDOR = 'VENDOR';
+
+
